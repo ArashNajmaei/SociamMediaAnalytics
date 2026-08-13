@@ -42,7 +42,7 @@ st.markdown(
 st.markdown(
     """
     <div class='hero'>
-      <h1 style='margin:0'>🧠 Social Text Intelligence Lab</h1>
+      <h1 style='margin:0'>🧠 Social Text Intelligence Lab developed by Dr Ash Najmaei exclusively for MIT MR604</h1>
       <p style='margin:.35rem 0 0 0'>Interactive topic modelling, sentiment analysis and text mining for social-media and review data.</p>
     </div>
     """,
