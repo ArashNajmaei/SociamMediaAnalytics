@@ -17,7 +17,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
-st.set_page_config(page_title="Social Text Intelligence Lab", page_icon="🧠", layout="wide")
+st.set_page_config(page_title="Social Text Intelligence Lab developed by Dr Ash Najmaei exclusively for MIT MR604", page_icon="🧠", layout="wide")
 
 # -----------------------------
 # Styling
